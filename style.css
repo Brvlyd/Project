@@ -1,0 +1,33 @@
+p{
+    color: blue;
+    text-transform: uppercase;
+    text-align: center;
+}
+/* selector class */
+.navbar-text{
+    color: tomato;
+
+}
+
+#navbar{
+    background-color: lightcyan;
+}
+
+#jumbotron{
+    background-color: yellowgreen;
+}
+
+.kotak{
+    width: 60%;
+    height: 50px;
+    background-color: crimson;
+}
+/* Block */
+
+/* Inline Block */
+
+/* Inline */
+#footer{
+    background-color: slateblue;
+}
+/* Selector Id */
